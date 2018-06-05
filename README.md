@@ -1,4 +1,4 @@
-# Codenames [![Codacy Badge](https://api.codacy.com/project/badge/Grade/04e09bb3541f48a4ada13540bd3c9b02)](https://www.codacy.com/app/Bridgie/Codenames?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bridgie/Codenames&amp;utm_campaign=Badge_Grade)
+# Codenames
 
 ## Description
 Codenames is a game made in Java using Java swing.
